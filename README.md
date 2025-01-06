@@ -75,5 +75,5 @@ npm start
 
 Use the following command to bundle the app:
 ```sh
-npm build
+npm run build
 ```

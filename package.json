@@ -4,17 +4,18 @@
   "description": "",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "Simon Pinkas",
   "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.11.0"
-  },
   "dependencies": {
     "color-convert": "^2.0.1",
     "invert-color": "^2.0.0",
     "notyf": "^3.10.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
   }
 }
