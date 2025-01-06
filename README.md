@@ -14,8 +14,8 @@ Lightness is a small static website that allows users to view a palette of varyi
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
 | ⚙️  | **Architecture**  | Follows a basic structure, with source files in `src`. Key files include `index.html` and `app.js`. |
-| 🔌 | **Integrations**  | Uses `parcel` as a web application bundler. |
-| 📦 | **Dependencies**  | Key dependencies include `invert-color`, `notyf`, and `color-convert`. Parcel is a dev dependency. |
+| 🔌 | **Integrations**  | Uses `Vite` as a web application bundler. |
+| 📦 | **Dependencies**  | Key dependencies include `invert-color`, `notyf`, and `color-convert`. `Vite` is a dev dependency. |
 
 
 ---
