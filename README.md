@@ -43,7 +43,7 @@ Lightness is a small static website that allows users to view a palette of varyi
 
 Ensure you have the following dependencies installed on your system:
 
-* **Node.js**: `20+`
+* **Node.js**: `22.12.0`
 
 ### ⚙️ Installation
 
