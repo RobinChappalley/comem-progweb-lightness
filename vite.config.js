@@ -8,6 +8,6 @@ export default defineConfig({
         emptyOutDir: true, // Clean the output directory before building
     },
     server: {
-        open: true, // Automatically open the app in the browser
-    },
+        host: true
+    }
 });
